@@ -77,3 +77,7 @@
 ## 目前进度
 test
 正在完善前端简单功能框架
+
+## 图片展示
+![首页](./readmeimg/index.png) 
+![上传数据](./readmeimg/uploadData.png) 
